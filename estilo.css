@@ -8,8 +8,8 @@ body {
     background-color: #F2F2F2;
     text-align: center;
     padding: 20px;
-    height: 100vh; /* Aqui definimos que o header ocupará 100% da altura da janela do navegador */
-    box-sizing: border-box; /* Isso garante que o padding não aumente o tamanho total do header */
+    height: 100vh;
+    box-sizing: border-box; 
     display: flex;
     flex-direction: column;
     justify-content: center;
